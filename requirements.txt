@@ -1,0 +1,10 @@
+tensorflow
+sklearn
+pandas
+streamlit
+graphviz
+matplotlib
+numpy
+librosa
+pickle
+tqdm
